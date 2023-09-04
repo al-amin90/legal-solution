@@ -1,0 +1,13 @@
+/* basics style is here  */
+
+.font-garamond {
+    font-family: 'EB Garamond', serif;
+    color: white;
+}
+
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    color: white;
+    font-weight: 400;
+}
