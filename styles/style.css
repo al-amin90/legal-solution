@@ -4,8 +4,20 @@
     font-family: 'EB Garamond', serif;
 }
 
+.scandery-font {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
 .font-poppins {
     font-family: 'Poppins', sans-serif;
     font-size: 1rem;
     font-weight: 400;
+}
+
+@media only screen and (max-width:576px) {
+    .font-poppins {
+        font-size: 0.3rem;
+    }
 }
